@@ -1,2 +1,2 @@
-# Leetcode-Solutions
-My leetcode solutions all in one.
+# Leetcode SQL Solutions
+My leetcode sql solutions all in one.
