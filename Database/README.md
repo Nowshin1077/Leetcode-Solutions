@@ -1,8 +1,8 @@
 # LeetCode Query Practice
-:octocat: Solutions to <a href="https://leetcode.com/problemset/database/?page=1">LeetCode</a> SQL problems I am solving are here.
+:octocat: Solutions to <a href="https://leetcode.com/problemset/database/?page=1">LeetCode</a> MySQL problems I am solving are here.
 :rocket: :computer:
 
-SQL
+MySQL
 ----------------
 
 | NO.     | PROBLEMS         | DIFFICULTY  | TAGS  | SOLUTION |
