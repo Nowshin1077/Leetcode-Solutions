@@ -1,6 +1,6 @@
 # LeetCode Practice
 :octocat: Solutions of <a href="https://leetcode.com/problemset/all/">LeetCode</a> problems are here.
-:rocket: :computer:
+<!--:rocket: :computer -->
 Roadmap:
 https://neetcode.io/roadmap
 
